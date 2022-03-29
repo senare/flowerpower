@@ -1,0 +1,13 @@
+name = "Copper Tools"
+filename = "coppertools-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/37lT3UpR/versions/1.0.1/coppertools-1.0.1.jar"
+hash-format = "sha1"
+hash = "144877ace6ecd1b88633c73ce23f1ee2ed47483c"
+
+[update]
+[update.modrinth]
+mod-id = "37lT3UpR"
+version = "58O6kBhV"

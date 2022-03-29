@@ -1,0 +1,13 @@
+name = "FlowerPower"
+author = "Ivan Nilsson"
+version = "1.0.0"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "89079ba18f3034bb2991a29e50bffdd2ca73abb4449b0167d0b6a47eef8860c5"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"

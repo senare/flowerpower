@@ -1,0 +1,13 @@
+name = "Vanilla Shears"
+filename = "vanilla-shears-1.18.1-0.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/RueHKWYi/versions/1.18.1-0.1.0/vanilla-shears-1.18.1-0.1.0.jar"
+hash-format = "sha1"
+hash = "938c8719df51ae191ec29696ea430426a89f5e83"
+
+[update]
+[update.modrinth]
+mod-id = "RueHKWYi"
+version = "JAp2mmqY"

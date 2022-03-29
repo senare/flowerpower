@@ -1,0 +1,13 @@
+name = "FabricAutoCrafter"
+filename = "fabricautocrafter-1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3667/826/fabricautocrafter-1.0.3.jar"
+hash-format = "sha1"
+hash = "ce0b54d3f5e21e517b367d44a98ed27fe62f2971"
+
+[update]
+[update.curseforge]
+file-id = 3667826
+project-id = 581015

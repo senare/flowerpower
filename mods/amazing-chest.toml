@@ -1,0 +1,13 @@
+name = "Amazing Chest"
+filename = "amazingchest-0.0.3+1.18.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XmXk2gJP/versions/0.0.3+1.18.1/amazingchest-0.0.3%2B1.18.1.jar"
+hash-format = "sha1"
+hash = "e9b84df16a04654a98cefdcd23548292a7fad94a"
+
+[update]
+[update.modrinth]
+mod-id = "XmXk2gJP"
+version = "zcUjhcaw"

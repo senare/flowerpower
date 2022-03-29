@@ -1,0 +1,61 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/amazing-chest.toml"
+hash = "34e9eebbfa0178d283a8ffd9312e5f75ce7064c473284ff77b522fdbf6670297"
+metafile = true
+
+[[files]]
+file = "mods/botania-fabric.toml"
+hash = "534ac3ac2568cbd0b1d602cbfa378708717b83218a49a6ee96c421a8ce73fa3d"
+metafile = true
+
+[[files]]
+file = "mods/copper-tools.toml"
+hash = "d5cc2265ea2218184bb0483bce917688b5cf01c2de1f7ef49c7dbe3bf53fa94b"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
+metafile = true
+
+[[files]]
+file = "mods/fabricautocrafter.toml"
+hash = "63ea29c6c22838d2a284ca8f5bbef602da17c1969861524c51cb37fddf1a0c27"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "7bd9c7e8fc06f1ea0c888a740bfce1446a89cbfcffb7ca8178867261cbb40f48"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.toml"
+hash = "08cf57c2cae5fff7f0b8d043c45df07893ea01734a6486f9ca94caae741ea351"
+metafile = true
+
+[[files]]
+file = "mods/patchouli-fabric.toml"
+hash = "de83c79e0a715b835f82583a02933a7342b2bc68cd23007ec9cf501ede81a84f"
+metafile = true
+
+[[files]]
+file = "mods/sodium.toml"
+hash = "f291cfa3dc4468318494015a4d695f66a22356355aa0122b2fbb7c1407ffdde0"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-fabric.toml"
+hash = "803fa3a6809a4374ae7de6793000eede70d33cd7327fd52dc742a2534e97edeb"
+metafile = true
+
+[[files]]
+file = "mods/vanillashears.toml"
+hash = "dbdb6c2625fc2587d1ea4a5f39280eefb0045d9956270c74cb1db1ecb8d65fe5"
+metafile = true
+
+[[files]]
+file = "mods/wthit.toml"
+hash = "2d2e610a39c8802ae2899fe6ee6f81c84562ea54629e8fb7337f3abee8cf4bc3"
+metafile = true
